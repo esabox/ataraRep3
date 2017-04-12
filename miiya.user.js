@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         pointatume5 in rep3
+// @name         pointatume55 in rep3
 // @namespace    miiya
-// @homepageURL  https://gist.github.com/esabox/fba49da6a8f99c728243488b4de3bc4b/edit
+// @homepageURL  https://github.com/esabox/ataraRep3/edit/master/miiya.user.js
 // @version      0.22
 // @description  try to take over the world!
 // @author       You

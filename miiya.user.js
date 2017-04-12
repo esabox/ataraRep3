@@ -17,7 +17,7 @@
 (function() {
 	"use strict";
 
-	window.nsMiiya={}; //namespace
+	window.nsMiiya={}; //namespace2
 	nsMiiya.hoge=function(){
 		//console.log(hoge);
 		const base = document.body.appendChild(Object.assign(document.createElement('div'), {

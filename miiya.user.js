@@ -2,7 +2,7 @@
 // @name         pointatume5 in rep3
 // @namespace    miiya
 // @homepageURL  https://gist.github.com/esabox/fba49da6a8f99c728243488b4de3bc4b/edit
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
 // @author       You
 // @match        https://www.rakuten-card.co.jp/*
